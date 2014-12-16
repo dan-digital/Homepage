@@ -1,0 +1,218 @@
+#Home {
+	background:#252525;
+	position:relative;
+	@extend %clearfix;
+
+	#bgVid{
+		position: fixed; right: 0; bottom: -60px;
+		min-width: 100%; min-height: 100%;
+		width: auto; height: auto; z-index: 0;
+		background: url(polina.jpg) no-repeat;
+		background-size: cover;
+		
+	}
+	.content {
+	    position:absolute;
+	    top:42%;
+	    left:0;
+	    right:0;
+	    margin:0 auto;
+	    text-align: center;
+
+	    .ticker {
+	    	position:relative;
+	    	overflow:hidden;
+	    	height:70px;
+
+	    	h1 {
+	    		-webkit-animation: ticker 5.3s infinite both ease-in-out;  
+	    		text-transform: uppercase;
+	    		letter-spacing: 0.20em;
+	    		font-size: 70px;
+	    		font-size:5.7vw;
+	    		font-weight:300;
+	    		
+				text-shadow: 0 1px 2px rgba(0,0,0,0.2);
+	    		@media (min-width: #{$desktop-small}) {
+	    			font-size: 55px;
+  				}
+	    	}
+	    	a{
+
+	    	}
+
+	    }
+	    .ctas {
+	    	padding:50px 0 0 0;
+
+		    .button {
+	    		border:solid 2px rgba(255,255,255,0.7);
+	    		border-radius:3px;
+	    		padding: 20px 55px;
+	    		font-size:12px;
+	    		font-weight: 800;
+	    		text-transform: uppercase;
+	    		letter-spacing: 0.20em;
+	    		color:white;
+	    		display:inline-block;
+
+	    		&.blue {
+	    			border:none;
+	    		}
+		    }
+	    }
+	}
+}
+#About {
+	background:#36BAE4;
+	position:relative;
+	@extend %clearfix;
+	.content {
+	    
+	    margin:0 auto;
+	    text-align: center;
+	    padding: 90px 40px;
+	    @media (min-width: #{$desktop-small}) {
+   				padding: 90px 140px;
+  			}
+	    
+
+    	h2 {
+    		text-transform: uppercase;
+    		letter-spacing: 0.20em;
+    		font-size:25px;
+    		font-size:2.7vw;
+    		font-weight:300;
+    	}
+
+    	p {
+    		line-height: 40px;
+    		font-size:16px;
+    		@media (min-width: #{$desktop-medium}) {
+   				font-size:22px;
+  			}
+    	}
+	    	
+	}
+}
+#Services, #Footer {
+	
+	position:relative;
+	@extend %clearfix;
+	.content {
+	    @extend %clearfix;
+	    margin:70px auto;
+	    width:75%;
+	    @media (min-width: #{$desktop-small}) {
+	    		width:60%;
+  			}
+		@media (min-width: #{$desktop-medium}) {
+	    		width:75%;
+  			}
+
+		@media (min-width: #{$desktop-large}) {
+	    		width:90%;
+  			}
+
+		@media (min-width: #{$desktop-xlarge}) {
+	    		width:75%;
+  			}
+
+	    .col1 {
+			width: 100%;
+   			float:left;
+   			padding: 30px 0 30px 9.3%;
+			position:relative;
+			
+
+  			@media (min-width: #{$desktop-medium}) {
+   				 width: 40.3%;
+				 
+  			}
+
+  			@media (min-width: #{$desktop-large}) {
+   				 width: 27%;
+				padding: 80px 0 80px 6.3%;
+  			}
+
+  			.icon {
+  				width:40px;
+  				height:40px;
+  				position:absolute;
+  				left:24px;
+  			}
+	    	h2 {
+	    		text-transform: uppercase;
+	    		letter-spacing: 0.20em;
+				font-size: 15px;
+				font-weight: 500;
+				color:#444;
+	    	}
+
+	    	p {
+	    		font-size:13px;
+	    		color:#676767;
+	    	}
+    	}
+	}
+}
+
+#Footer {
+	background:#171717;
+	text-align:center;
+	.content {
+		 margin:20px auto;
+		.col1 {
+			padding: 70px 3.1% !important;
+			.footerIcon {
+  				width:30px;
+  				height:30px;
+  				margin:0 0 10px 0;
+  			}
+			h2 {
+					font-size: 11px!important;
+					font-weight: 300!important;
+					color:#fff!important;
+		    	}
+		}
+	}
+		
+}
+
+#Footer2 {
+	@extend %clearfix;
+	position:relative;
+	background:rgb(13, 13, 13);
+	.content {
+		 margin:20px auto;
+		 width: 75%;
+		 text-align: center;
+		 p {
+		 	font-size:13px;
+		 	color:rgb(153, 153, 153);
+		 }
+		 a {
+			 .footerIcon {
+	  				width:20px;
+	  				height:20px;
+	  				margin:0 0 0 10px;
+	  				position: relative;
+					top: 3px;
+	  			}
+  			}
+	 }
+
+}
+
+#Services {
+	background:#ffffff;
+}
+
+
+#betwayBingoVid {
+	position: absolute;
+	top: 553px;
+	left: 51px;
+	width: 82%;
+}
+
