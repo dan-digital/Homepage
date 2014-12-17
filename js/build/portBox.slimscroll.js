@@ -510,10 +510,13 @@ Animations Locks
 
 					$(this).get(0).play();
 				});
+
+        $(window).on('scroll', portBox.center);
 			}
 			
 			function lockPB() {
 				locked = true;
+        $(window).off('scroll', portBox.center);
 			}			
 /*------------------------
 Drop in da BG
