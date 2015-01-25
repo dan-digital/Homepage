@@ -150,7 +150,7 @@ module.exports = function(grunt) {
 
     shell: {
       openBrowser: {
-        command: 'start http://dev.dd-core/'
+        command: 'start http://dev.www.dandigital.com'
       }
     }
 
