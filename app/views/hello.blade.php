@@ -4,17 +4,25 @@
 	<meta charset="UTF-8" />
 	<title>Dandigital</title>
 
+	<!-- build:css(./public) /css/build/libs.min.css -->
 	<link rel="stylesheet" href="/.dev/css/portBox.css">
-	
+	<!-- endbuild -->
+
+	<!-- build:css(./public) /css/build/main.min.css -->
 	<link rel="stylesheet" href="/.dev/css/main.css">
+	<!-- endbuild -->
 
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
-	<script type='text/javascript' src='/.dev/js/portBox.slimscroll.js'></script>
-	<script src="http://cdn.jsdelivr.net/isotope/2.0.0/isotope.pkgd.min.js"></script>
-	<script src="https://rawgit.com/louisremi/jquery-smartresize/master/jquery.debouncedresize.js"></script>
+	<!-- build:js(./public) /js/build/libs.min.js -->
+	<script src="/.dev/bower_components/jquery/dist/jquery.js"></script>
+	<script src="/.dev/bower_components/jquery-ui/jquery-ui.js"></script>
+	<script src='/.dev/js/portBox.slimscroll.js'></script>
+	<script src='/.dev/js/isotope.pkgd.min.js'></script>
+	<script src='/.dev/js/jquery.debouncedresize.js'></script>
+	<!-- endbuild -->
 
+	<!-- build:js(./public) /js/build/main.min.js -->
 	<script type='text/javascript' src='/.dev/js/main.js'></script>
+	<!-- endbuild -->
 
 </head>
 <body>

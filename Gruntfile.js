@@ -9,7 +9,8 @@ module.exports = function(grunt) {
     views_dist: 'app/views.min',
     useminViews: [
       'includes/admin/script-tags.blade.php',
-      'includes/admin/style-tags.blade.php'
+      'includes/admin/style-tags.blade.php',
+      'hello.blade.php'
     ]
   };
 

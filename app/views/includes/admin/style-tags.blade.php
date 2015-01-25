@@ -1,4 +1,4 @@
-<!-- build:css(./public) /css/build/libs.min.css -->
+<!-- build:css(./public) /css/build/dd-libs.min.css -->
 <!-- bower:css -->
 <link rel="stylesheet" href="/.dev/bower_components/bootstrap/dist/css/bootstrap.css" />
 <!-- endbower -->
