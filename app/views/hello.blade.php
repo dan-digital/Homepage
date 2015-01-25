@@ -4,19 +4,18 @@
 	<meta charset="UTF-8" />
 	<title>Dandigital</title>
 
-	<!-- Attach portBox CSS -->
 	<link rel="stylesheet" href="/.dev/css/portBox.css">
+	
 	<link rel="stylesheet" href="/.dev/css/main.css">
 
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
-
-	<script type='text/javascript' src='/js/build/main.js'></script>
-
-	<!-- Attach portBox script -->
-	<script type='text/javascript' src='/js/build/portBox.slimscroll.min.js'></script>
+	<script type='text/javascript' src='/.dev/js/portBox.slimscroll.js'></script>
 	<script src="http://cdn.jsdelivr.net/isotope/2.0.0/isotope.pkgd.min.js"></script>
 	<script src="https://rawgit.com/louisremi/jquery-smartresize/master/jquery.debouncedresize.js"></script>
+
+	<script type='text/javascript' src='/.dev/js/main.js'></script>
+
 </head>
 <body>
 
