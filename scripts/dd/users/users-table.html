@@ -1,0 +1,22 @@
+<table ng-show="ctrl.users !== undefined" class="fade-in">
+	<thead>
+		<tr>
+			<th>Username</th>
+			<th>Options</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr ng-repeat="user in ctrl.users">
+			<td>{{ user.username }}</td>
+			<td>
+				<dd-confirm
+					ng-if="ctrl.users.length > 1"
+					ng-hide="ctrl.pendingUserId == user.id"
+					action="ctrl.removeUser(user.id)"
+					question="Are you sure you want to remove <strong>{{ user.username }}</strong>?">remove</dd-confirm>
+				<div ng-show="ctrl.pendingUserId == user.id" class="loader-small"></div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div ng-show="ctrl.users === undefined" class="loader"></div>

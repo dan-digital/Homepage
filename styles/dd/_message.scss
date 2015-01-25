@@ -1,0 +1,26 @@
+.ddMessage {
+	position: fixed;
+	padding: 12px;
+	top: 0;
+	left: 0;
+	width: 100%;
+	color: #000;
+	z-index: 1;
+	animation: fade-in .6s;
+
+	&.showHide {
+		animation: fade-in .6s, fade-out .6s 2.5s forwards;
+	}
+
+	&.hidden {
+		animation: fade-out .6s forwards;
+	}
+
+	&.confirm {
+		background: $ddGreen;
+	}
+
+	&.error {
+		background: $ddRed;
+	}
+}
