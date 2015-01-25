@@ -1,0 +1,148 @@
+header {
+	transition:all .3s ease;
+	background:rgb(16,23,31);
+	position:fixed;
+	z-index: 1;
+	box-sizing: border-box;
+	width:100%;
+	padding: 14px 40px;
+	@extend %clearfix;
+	
+	@media (min-width: #{$desktop-small}) {
+			padding-left:80px!important;
+			padding-right:80px!important;
+		}
+	@media (min-width: #{$desktop-xlarge}) {
+			padding-left:140px!important;
+			padding-right:140px!important;
+		}
+
+	&.dark {
+		
+
+			a{
+			display:block;
+			#size {
+					width:50px;
+					height:50px;
+				}
+			@media (min-width: #{$desktop-medium}) {
+				float:left;
+				
+			}
+
+		}
+
+		span {
+			transition:all .3s ease;
+			letter-spacing: 0.40em;
+			font-size: 20px;
+			color: rgba(255, 255, 255, 0.88);
+			position: relative;
+			bottom: 10px;
+			left: 12px;
+		}
+
+		nav {
+			float:right;
+			
+			a {
+				transition:all .3s ease;
+				padding:20px;
+				color: rgb(255, 255, 255);
+				&:hover {
+					color: rgb(145, 243, 255);
+				}
+
+
+			}
+		}
+
+	}
+
+	&.light {
+		
+		padding: 4px 40px;
+
+		a{
+			display:block;
+			float:left;
+			#size {
+					width:50px;
+					height:50px;
+				}
+		}
+
+		span {
+			transition:all .3s ease;
+			letter-spacing: 0.40em;
+			font-size: 15px;
+			color: rgba(255, 255, 255, 0.88);
+			position: relative;
+			bottom: 10px;
+			left: 12px;
+		}
+
+		nav {
+			float:right;
+			a {
+				transition:all .3s ease;
+				padding:20px;
+				color: rgb(139, 139, 139);
+				&:hover {
+					color: rgb(145, 343, 255);
+				}
+			}
+		}
+	}
+	
+	
+}
+
+
+
+
+.mobile {
+		  display: block;
+		  width: 100%;
+		  top: 0;
+		  @media (min-width: #{$desktop-medium}) {
+	    			display: none;
+  				}
+		  div {
+		    display: none;
+			}
+		  button {
+		    position: absolute;
+		    top: 15px;
+		    right: 15px;
+		    border: 0;
+		    text-indent: 200%;
+		    overflow: hidden;
+		    background: url(../../images/hamburger.png) center no-repeat;
+		    background-size: 80%;
+		    width: 30px;
+		    height: 30px;
+		    outline: none;
+		    transition: all 400ms ease;
+			    &.expanded {
+			      transform: rotate(90deg);
+			      background-color: transparent;
+			      border: 0;
+			   }   
+	       }
+
+	       
+		  a {
+		    display: block;
+			}
+
+    }
+
+.desktop {
+	display:none;
+	 @media (min-width: #{$desktop-medium}) {
+	    			display: block;
+  				}
+
+}

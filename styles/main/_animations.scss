@@ -1,0 +1,36 @@
+@keyframes fade-out {
+  0%   { opacity: 1; }
+  100% { opacity: 0; z-index: -1; }
+}
+
+@keyframes fade-in {
+  0%   { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@keyframes ticker {
+  	0%  { 
+  			opacity: 1; 
+  			-webkit-transform: translate3d(0px, 0px, 0px); 
+  		}
+
+	40%  { 
+  			opacity: 1; 
+  			-webkit-transform: translate3d(0px, 0px, 0px); 
+  		}
+
+  	50%  { 
+			opacity: 1; 
+			-webkit-transform: translate3d(0px, -85px, 0px); 
+		}
+
+	90%  { 
+			opacity: 1; 
+			-webkit-transform: translate3d(0px, -85px, 0px); 
+		}
+		
+	100%  { 
+  		 	opacity: 1; 
+  		 	-webkit-transform: translate3d(0px, -0px, 0px); 
+  		}
+}				

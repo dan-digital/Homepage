@@ -71,6 +71,11 @@ module.exports = function(grunt) {
         files: {
           '<%= config.dev %>/css/dd.css' : 'styles/dd/main.scss'
         }
+      },
+      main: {
+        files: {
+          '<%= config.dev %>/css/main.css' : 'styles/main/main.scss'
+        }
       }
     },
 
