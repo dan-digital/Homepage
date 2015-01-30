@@ -122,6 +122,20 @@ module.exports = function(grunt) {
     },
 
     copy: {
+      devFolders: {
+        files: [{
+          expand: true,
+          cwd: 'scripts/.dev',
+          src: '**',
+          dest: '<%= config.dev %>/js'
+        },
+        {
+          expand: true,
+          cwd: 'styles/.dev',
+          src: '**',
+          dest: '<%= config.dev %>/css'
+        }]
+      },
       useminViews: {
         files: [{
           expand: true,
@@ -164,6 +178,7 @@ module.exports = function(grunt) {
     'concat',
     'sass',
     'autoprefixer',
+    'copy:devFolders',
     'watch'
   ]);
 
@@ -174,6 +189,7 @@ module.exports = function(grunt) {
     'concat:dd',
     'sass',
     'autoprefixer',
+    'copy:devFolders',
     'useminPrepare',
     'concat:generated',
     'uglify:generated',
