@@ -34,6 +34,7 @@
 		</a>
 		
 		<nav class="desktop">
+			<a class="scroll" href="#Home">Home</a>
 			<a class="scroll" href="#About">About</a>
 			<a class="scroll" href="#Services">Services</a>
 			<a class="scroll" href="#Folio">Folio</a>
