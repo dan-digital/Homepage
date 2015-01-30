@@ -152,12 +152,6 @@ module.exports = function(grunt) {
       tmp: {
         src: ['.tmp']
       }
-    },
-
-    shell: {
-      openBrowser: {
-        command: 'start http://dev.www.dandigital.com'
-      }
     }
 
   });
@@ -170,7 +164,6 @@ module.exports = function(grunt) {
     'concat',
     'sass',
     'autoprefixer',
-    'shell:openBrowser',
     'watch'
   ]);
 
