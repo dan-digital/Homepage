@@ -30,7 +30,7 @@
 	<header class="dark">
 		<a class="logo" href="#">
 			<object id="size" type="image/svg+xml" data="/images/logo.svg">Your browser does not support SVG</object>
-			<!-- <span>DANDIGITAL</span> -->
+			<span>DANDIGITAL</span>
 		</a>
 		
 		<nav class="desktop">
