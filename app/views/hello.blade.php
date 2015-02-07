@@ -91,7 +91,7 @@
 			<div class="col1">	
 				
 				<object class="icon" type="image/svg+xml" data="/images/svg/webDesign.svg">Your browser does not support SVG</object>
-				<h2>Web Design</h2>
+				<h2>Web Design - innit.</h2>
 				<p>Making a change to see if Git picks it up?<p>
 			</div>
 			<div class="col1">	
