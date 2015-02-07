@@ -96,7 +96,7 @@
 			</div>
 			<div class="col1">	
 				<object class="icon" type="image/svg+xml" data="/images/svg/commerce.svg">Your browser does not support SVG</object>
-				<h2>E Commerce</h2>
+				<h2>E Commerce - it is.</h2>
 				<p>We keep you in the loop throughout the project<p>
 			</div>
 			<div class="col1">
