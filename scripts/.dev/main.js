@@ -17,7 +17,7 @@ $( document ).ready(function() {
         $(window).resize(updateDivsMargins);
         
         function updateDivsMargins() {
-            $('#Home .content').each(function () {
+            $('#Home .content, figcaption').each(function () {
                 $(this).css({
                     'margin-top': (-$(this).height() / 2),
                 });

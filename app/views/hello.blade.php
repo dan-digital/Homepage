@@ -35,7 +35,7 @@
 		
 		<nav class="desktop">
 			<a class="scroll" href="#Home">Home</a>
-			<a class="scroll" href="#About">About</a>
+			
 			<a class="scroll" href="#Services">Services</a>
 			<a class="scroll" href="#Folio">Folio</a>
 			<a href="">Team</a>
@@ -47,7 +47,7 @@
 			<button>Toggle</button>
 			<div>
 				<a class="scroll" href="#Home">Home</a>
-				<a class="scroll" href="#About">About</a>
+				
 				<a class="scroll" href="#Folio">Folio</a>
 				<a class="scroll" href="#Services">Services</a>
 				<a href="">Team</a>
@@ -76,14 +76,7 @@
 		</div>
 	</section>
 
-	<section id="About">
-		<div class="content">
-			<div>
-				<p>Do you have a pet project that hasn’t had the opportunity to come to fruition? We want to inspire you to bring your campaigns, brand and business to the next level. Get in touch via our contact page, tell us about your vision, and we'll be in touch to get things rolling.
-				<p>
-			</div>
-		</div>
-	</section>
+	
 
 	<section id="Services">
 		<div class="content">
@@ -92,34 +85,41 @@
 				
 				<object class="icon" type="image/svg+xml" data="/images/svg/webDesign.svg">Your browser does not support SVG</object>
 				<h2>Web Design</h2>
-				<p>Making a change to see if Git picks it up?<p>
-			</div>
+<p>We design websites with a clear purpose, that fullfill a specific need for your users in the most effective way possible. Utilising principles that can help your website be more engaging, useful and memorable for visitors.<p>			</div>
 			<div class="col1">	
 				<object class="icon" type="image/svg+xml" data="/images/svg/commerce.svg">Your browser does not support SVG</object>
 				<h2>E Commerce</h2>
-				<p>We keep you in the loop throughout the project<p>
+<p>User centered design is at the heart of our successful ecommerce platforms, and we put ourselves in the minds of the customers to deliver intuitive experiences.  <p>
 			</div>
 			<div class="col1">
 				<object class="icon" type="image/svg+xml" data="/images/svg/strategy.svg">Your browser does not support SVG</object>
 				<h2>Strategy</h2>
-				<p>We analyse your competitors and target audience <p>
+				<p>Here at Dandigital, we "think" more and design less. We analyse your competitors and target audience, utilise A/B split campaigns to test how different factors affect the way users engage with your website. <p>
 			</div>	
 			<div class="col1">
 				<object class="icon" type="image/svg+xml" data="/images/svg/socialMedia.svg">Your browser does not support SVG</object>
 				<h2>Social Media</h2>
-				<p>You're a part of our journey, success stories make it all worth the effort<p>
+<p>Every post you make on a social media platform (e.g. facebook or twitter) is an opportunity for customers to convert. We specialise in social media integration and Social Business pages. Making use of Social Api's and Social Development Tools.<p>
 			</div>	
 			<div class="col1">
 			<object class="icon" type="image/svg+xml" data="/images/svg/seo.svg">Your browser does not support SVG</object>	
 				<h2>SEO</h2>
-				<p>Phasellus enim libero, blandit vel sapien vitae, condimentum ultricies magna et. Quisque euismod orci ut et lobortis aliquam. Aliquam in tortor enim.<p>
+<p>We thoroughly develop all of our websites to be search engine friendly to improve both the quality and quantity of potential consumers visiting your site from an online search. <p>
 			</div>
 			<div class="col1">
 				<object class="icon" type="image/svg+xml" data="/images/svg/seo.svg">Your browser does not support SVG</object>	
 				<h2>Content Mangement System</h2>
-				<p>Phasellus enim libero, blandit vel sapien vitae, condimentum ultricies magna et. Quisque euismod orci ut et lobortis aliquam. Aliquam in tortor enim.<p>
-			</div>
+<p> All Dandigital websites utilise our personilised Content Management System, allowing you to edit, add, or delete content on the web, or even on your mobile.<p>			</div>
 									
+		</div>
+	</section>
+
+	<section id="About">
+		<div class="content">
+			<div>
+				<p>Do you have a pet project that hasn’t had the opportunity to come to fruition? We want to inspire you to bring your campaigns, brand and business to the next level. Get in touch via our contact page, tell us about your vision, and we'll be in touch to get things rolling.
+				
+			</div>
 		</div>
 	</section>
 
@@ -130,48 +130,103 @@
 				<div class="overlay">
 
 				</div>
-				<figcaption>Item 1</figcaption>
+				<figcaption>
+	<h1>Betway Bingo</h1>
+	<p>Online Bingo Website</p>
+</figcaption>
 			</div>
 		</a>
+		<a href="#" data-display="wintech">
+	<div class="item item-h2">
+		<img src="/images/wintech.jpg">
+		<div class="overlay">
+			<figcaption>
+	<h1>Wintechnologies</h1>
+	<p>IGaming Website</p>
+</figcaption>
+		</div>
+
+	</div>
+</a>
 		<a href="#" data-display="db">
-			<div class="item item-h2">
-				<img src="/images/db.jpg">
-				<figcaption>Item 2</figcaption>
-			</div>
-		</a>
+	<div class="item item-h2">
+		<img src="/images/db.jpg">
+		<div class="overlay">
+			<figcaption>
+	<h1>Dream Bingo</h1>
+	<p>Online Bingo Website</p>
+</figcaption>
+		</div>
+
+	</div>
+</a>
 		<a href="#" data-display="coal">
-			<div class="item item-h2">
-				
-				<img src="/images/coal.jpg">
-				<figcaption>Item 3</figcaption>
-			</div>
-		</a>
-		<div class="item item-h2">
-			<img src="/images/wintech.jpg">
-			<figcaption>Item 4</figcaption>
-			
+	<div class="item item-h2">
+
+		<img src="/images/coal.jpg">
+		<div class="overlay">
+			<figcaption>
+	<h1>Coal Mining</h1>
+	<p>Infographic Website</p>
+</figcaption>
 		</div>
-		<div class="item item-h2">
-			<img src="/images/dbApp.jpg">
-			<figcaption>Item 5</figcaption>
-		</div>
+
+	</div>
+</a>
+		
+
+<div class="item item-h2">
+	<img src="/images/dbApp.jpg">
+	<figcaption>Item 5</figcaption>
+</div>
+<div class="overlay">
+	<figcaption>
+		<h1>Dream Bingo</h1>
+		<p>Mobile App</p>
+	</figcaption>
+</div>
+</div>
+
+
+
 		<a href="#" data-display="apb">
-			<div class="item item-w2 item-h4">
-				<img src="/images/abi.jpg">
-					
-				<figcaption>Item 6</figcaption>
-			</div>
-		<a/>
-		<div class="item item-w2 item-h4">
-			<img src="/images/apb.jpg">
-			<figcaption>Item 7</figcaption>
+	<div class="item item-w2 item-h4">
+		<img src="/images/abi.jpg">
+
+		<figcaption>Item 6</figcaption>
+		<div class="overlay">
+		</div>	
+		<figcaption>
+			<h1>APB</h1>
+			<p>Website</p>
+		</figcaption>
+	</div>
+	<a/>
+	<a href="#" data-display="apb">
+	<div class="item item-w2 item-h4">
+		<img src="/images/apb.jpg">
+		<figcaption>Item 7</figcaption>
+		<div class="overlay">
 		</div>
+		<figcaption>
+	<h1>APB</h1>
+	<p>Game Website</p>
+</figcaption>
+	</div>
+	</a>
+		
 		<a href="#" data-display="casinotop10list">
 			<div class="item item-h2">
 				<img src="/images/cttl.jpg">
-				<figcaption>Item 8</figcaption>
+				<div class="overlay">
+				</div>
+				<figcaption>
+					<h1>Casino Top 10 List</h1>
+					<p>Website</p>
+				</figcaption>
 			</div>
 		</a>
+
 		<div class="item item-h2">
 			<img src="/images/gf.jpg">
 			<figcaption>Item 9</figcaption>
@@ -228,7 +283,98 @@
 
 
 
+	
+
+
+
 	<!-- portBox Content -->
+
+
+
+	<div id="betwayBingo" class="portBox">
+    <div class="project">
+    	 	<div  class="project-pics">
+    	 		 <div style="position:relative;">
+            	<img src="/images/behance/betwayBingo.jpg">
+	    		<video autoplay loop poster="polina.jpg" id="betwayBingoVid">
+					<source src="/video/betwayBingo.mp4" type="video/mp4">
+				</video>
+            </div>
+             
+            
+        </div>
+        
+        <div class="project-info">
+        	 <h3>Betway Bingo</h3>
+            
+            <p>With the new Betway branding created primarily around their sports product, our client wanted us to maintain the new brand Identity of Betway, but also appeal to a Bingo demographic. </p>
+            <p>We created a sub brand that envoked the identity of Betway, but also gave the Bingo product an even stronger identity of it's own.</p>
+            <ul>
+                <li><h4>CLIENT</h4></li>
+                	<li>Betway</li>
+                <li><h4>ROLE</h4></li>
+                <li>UI/UX, 3D Designer and orchestrating development</li>
+                <li><h4>SKILLS</h4></li>
+
+                <li>HTML5, CSS3 animation, 3D Max, </li>
+            </ul>
+            
+            <a href="#" class="project-button">Visit Site</a>
+        
+        </div><!-- Project Info Close -->
+    </div><!-- Project Close -->
+</div><!-- portBox Close -->
+
+
+
+
+
+<div id="wintech" class="portBox">
+    <div class="project">
+
+    	<div  class="project-pics">
+
+            <div style="position:relative;">
+              <img src="/images/behance/winTech.jpg">
+              <video autoplay loop poster="polina.jpg" id="winTech">
+               <source src="/video/wintechVid_1.mp4" type="video/mp4">
+               </video>
+
+
+           </div>
+
+
+       </div>
+       <div class="project-info">
+             
+             <h3>Wintechnologies Website</h3>
+
+             <p>A website created primarily for recruitment purposes, we wanted potential candidates to take away a sense of community and professionalism, and for current employees, to have a company name they could be proud to tell their family and friends they worked for.</p>
+             <p>The previous website left alot to be desired, and whilst stakeholders brought up the corporate aesthetics of the website. A lot of employee feedback surprisingly revolved around a nepotistic environment and lack of equality within the workplace.</p>
+             <p>So with the side goal to help improve employee morale, we put together a photo shoot, gathering over 200 employees, and took pictures of each of them in different moods and poses.</p>
+             <p>It made for a fun community building activity, and gave  everyone who took part a sense of belonging, having their photo on the homepage.</p>
+             <ul>
+                <li><h4>CLIENT</h4></li>
+                <li>Wintechnologies</li>
+                <li><h4>ROLE</h4></li>
+                <li>UI Web Designer, Prototyping</li>
+                <li><h4>SKILLS</h4></li>
+                <li>HTML5, CSS3, after effects, Jquery, Fireworks, Photoshop</li>
+            </ul>
+
+                <a href="#" class="project-button">Visit Site</a>
+        </div><!-- Project Info Close -->
+</div><!-- Project Close -->
+            </div><!-- portBox Close -->
+
+
+
+
+
+
+
+
+
 <div id="apb" class="portBox">
     <div class="project">
         
@@ -258,6 +404,16 @@
         </div><!-- Project Info Close -->
     </div><!-- Project Close -->
 </div><!-- portBox Close -->
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -294,40 +450,7 @@
 
 
 
-<div id="betwayBingo" class="portBox">
-    <div class="project">
-        
-    	<div  class="project-pics">
 
-            <div style="position:relative;">
-            	<img src="/images/behance/betwayBingo.jpg">
-	    		<video autoplay loop poster="polina.jpg" id="betwayBingoVid">
-					<source src="/video/betwayBingo.mp4" type="video/mp4">
-				</video>
-            </div>
-             
-            
-        </div>
-        
-        <div class="project-info">
-            <h3>My Awsome Project</h3>
-            
-            <p>Short description of the project or the work that went into finishing it.</p>
-            
-            <ul>
-                <li><h4>CLIENT</h4></li>
-                	<li>Dude McMan</li>
-                <li><h4>ROLE</h4></li>
-                	<li>Stuff, Stuff, More Stuff</li>
-                <li><h4>SKILLS</h4></li>
-                	<li>this, that, the other</li>
-            </ul>
-            
-            <a href="#" class="project-button">Visit Site</a>
-        
-        </div><!-- Project Info Close -->
-    </div><!-- Project Close -->
-</div><!-- portBox Close -->
 
 
 <div id="coal" class="portBox">
@@ -375,7 +498,13 @@
 
             <div style="position:relative;">
             	<img src="/images/behance/db.jpg">
-	    		
+	    		<video autoplay loop poster="polina.jpg" id="dbVid">
+					<source src="/video/dbVid.mp4" type="video/mp4">
+				</video>
+
+				<video autoplay loop poster="polina.jpg" id="dbSketch">
+					<source src="/video/dbSketch.mp4" type="video/mp4">
+				</video>
             </div>
              
             

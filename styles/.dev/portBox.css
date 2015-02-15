@@ -47,7 +47,7 @@ portBox CSS
 }
 
 .portBox {
-	max-width:990px;
+	max-width:930px;
 	position: absolute;
 	display:none;
 	background: #F4F4F4;
@@ -94,7 +94,7 @@ porBox Content CSS
 -----------------------------------------*/
 
 .project-pics{
-	width:70%;
+	width:67%;
 	float:left;	
 }
 
@@ -104,7 +104,7 @@ porBox Content CSS
 
 .project-info {
 	float: left;
-	width:26%;
+	width:29%;
 	box-sizing: border-box;
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	-moz-box-sizing: border-box; 

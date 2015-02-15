@@ -101,7 +101,7 @@
 	@extend %clearfix;
 	.content {
 	    @extend %clearfix;
-	    margin:70px auto;
+	    margin:25px auto;
 	    width:75%;
 	    @media (min-width: #{$desktop-small}) {
 	    		width:60%;
@@ -150,7 +150,7 @@
 	    	}
 
 	    	p {
-	    		font-size:13px;
+	    		font-size:14px;
 	    		color:#676767;
 	    	}
     	}
@@ -211,15 +211,56 @@
 
 #betwayBingoVid {
 	position: absolute;
-	top: 553px;
-	left: 51px;
+	top: 13%;
+	left: -3%;
+	right:0;
 	width: 82%;
+	margin: 0 auto;
 }
 
 #coalVid {
 	position: absolute;
-	top: 437px;
-	left: 51px;
+	top: 16.6%;
+	left: -3%;
+	right: 0;
 	width: 82%;
+	margin: 0 auto;
 }
 
+#dbVid {
+position: absolute;
+top: 23%;
+left: 0;
+right: 0;
+width: 70%;
+margin: 0 auto;
+}
+
+#dbSketch {
+	position: absolute;
+	top: 46%;
+	left: 0;
+	right: 0;
+	width: 100%;
+	margin: 0 auto;
+}
+
+
+#winTech {
+	position: absolute;
+	top: 18%;
+	left: 0;
+	right: 0;
+	width: 81%;
+	margin: 0 auto;
+}
+
+
+#preloader {
+	background: grey;
+	position: absolute;
+	display: none;
+	width: 100%;
+	height: 100%;
+	z-index: 3;
+}
