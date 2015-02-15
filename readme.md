@@ -1,3 +1,3 @@
-## DanDigital Core
+## DanDigital Homepage
 
-It's the DanDigital Core!
+It's the DanDigital Homepage!
