@@ -27,7 +27,7 @@
 
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
 
-	
+
 </head>
 <body>
 
@@ -341,7 +341,7 @@
             <div style="position:relative;">
               <img src="/images/behance/winTech.jpg">
               <video autoplay loop poster="polina.jpg" id="winTech">
-               <source src="/video/wintechVid_1.mp4" type="video/mp4">
+               <source src="/video/winTech.mp4" type="video/mp4">
                </video>
 
 
