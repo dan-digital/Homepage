@@ -4,6 +4,8 @@
 	<meta charset="UTF-8" />
 	<title>Dandigital</title>
 
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
 	<!-- build:css(./public) /css/build/libs.min.css -->
 	<link rel="stylesheet" href="/.dev/css/portBox.css">
 	<!-- endbuild -->
