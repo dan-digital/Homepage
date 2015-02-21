@@ -130,6 +130,9 @@
 	</section>
 
 	<section id="Folio" class="folio">
+
+
+
 		<a href="#" data-display="betwayBingo">
 			<div class="item item-w2 item-h2">
 				<img src="/images/bb.jpg">
@@ -142,72 +145,80 @@
 </figcaption>
 			</div>
 		</a>
-		<a href="#" data-display="wintech">
-	<div class="item item-h2">
-		<img src="/images/wintech.jpg">
-		<div class="overlay">
-			<figcaption>
-	<h1>Wintechnologies</h1>
-	<p>IGaming Website</p>
-</figcaption>
-		</div>
 
-	</div>
-</a>
-		<a href="#" data-display="db">
-	<div class="item item-h2">
-		<img src="/images/db.jpg">
-		<div class="overlay">
-			<figcaption>
-	<h1>Dream Bingo</h1>
-	<p>Online Bingo Website</p>
-</figcaption>
-		</div>
 
-	</div>
-</a>
+
+	<a href="#" data-display="wintech">
+		<div class="item item-h2">
+			<img src="/images/wintech.jpg">
+			<div class="overlay">
+				<figcaption>
+		<h1>Wintechnologies</h1>
+		<p>IGaming Website</p>
+	</figcaption>
+			</div>
+
+		</div>
+	</a>
+
+
+
+			<a href="#" data-display="db">
+		<div class="item item-h2">
+			<img src="/images/db.jpg">
+			<div class="overlay">
+				<figcaption>
+		<h1>Dream Bingo</h1>
+		<p>Online Bingo Website</p>
+	</figcaption>
+			</div>
+
+		</div>
+	</a>
+
+
+
 		<a href="#" data-display="coal">
 	<div class="item item-h2">
 
 		<img src="/images/coal.jpg">
 		<div class="overlay">
 			<figcaption>
-	<h1>Coal Mining</h1>
-	<p>Infographic Website</p>
-</figcaption>
+				<h1>Coal Mining</h1>
+				<p>Infographic Website</p>
+			</figcaption>
 		</div>
 
 	</div>
 </a>
 		
-
-<div class="item item-h2">
-	<img src="/images/dbApp.jpg">
-	<figcaption>Item 5</figcaption>
-</div>
-<div class="overlay">
-	<figcaption>
-		<h1>Dream Bingo</h1>
-		<p>Mobile App</p>
-	</figcaption>
-</div>
-</div>
-
-
-
-		<a href="#" data-display="apb">
-	<div class="item item-w2 item-h4">
-		<img src="/images/abi.jpg">
-
-		<figcaption>Item 6</figcaption>
+	<a href="#" data-display="dbMobile">
+		<div class="item item-h2">
+			<img src="/images/dbApp.jpg">
 		<div class="overlay">
-		</div>	
-		<figcaption>
-			<h1>APB</h1>
-			<p>Website</p>
-		</figcaption>
-	</div>
-	<a/>
+			<figcaption>
+				<h1>Dream Bingo</h1>
+				<p>Mobile App</p>
+			</figcaption>
+		</div>
+		</div>
+	</a>
+
+
+	<a href="#" data-display="apb">
+		<div class="item item-w2 item-h4">
+			<img src="/images/abi.jpg">
+			<div class="overlay">
+			</div>	
+			<figcaption>
+				<h1>APB</h1>
+				<p>Website</p>
+			</figcaption>
+		</div>
+		<a/>
+
+
+
 	<a href="#" data-display="apb">
 	<div class="item item-w2 item-h4">
 		<img src="/images/apb.jpg">
@@ -215,40 +226,73 @@
 		<div class="overlay">
 		</div>
 		<figcaption>
-	<h1>APB</h1>
-	<p>Game Website</p>
-</figcaption>
+			<h1>APB</h1>
+			<p>Game Website</p>
+		</figcaption>
 	</div>
-	</a>
+</a>
 		
-		<a href="#" data-display="casinotop10list">
-			<div class="item item-h2">
-				<img src="/images/cttl.jpg">
-				<div class="overlay">
-				</div>
+	<a href="#" data-display="bwSports">
+		<div class="item item-h2">
+			<img src="/images/cttl.jpg">
+			<div class="overlay">
+			</div>
+			<figcaption>
+				<h1>Betway Sports</h1>
+				<p>Sports Betting Website</p>
+			</figcaption>
+		</div>
+	</a>
+
+	<a href="#" data-display="hippo">
+		<div class="item item-h2">
+			<img src="/images/gf.jpg">
+			<div class="overlay">
+				<figcaption>
+					<h1>Hippodrome Online</h1>
+					<p>Igaming Website</p>
+				</figcaption>
+			</div>
+		</div>
+	</a>
+
+	<a href="#" data-display="gf">
+		<div class="item item-h2">
+			<img src="http://themenectar.com/demo/salient-frostwave/wp-content/uploads/2014/03/onemore-preload1121-1000x1000.jpg">
+			<div class="overlay">
+				<figcaption>
+					<h1>Girl Fit</h1>
+					<p>Fitness Mobile App</p>
+				</figcaption>		
+			</div>
+		</div>
+	</a>
+
+	<a href="#" data-display="bwSportsMob">
+		<div class="item item-h2">
+			<img src="http://themenectar.com/demo/salient-frostwave/wp-content/uploads/2014/03/CSD_06b11-500x500.jpg">
+			<div class="overlay">
+				<figcaption>
+					<h1>Betway Sports Mobile</h1>
+					<p>Sports Betting App</p>
+				</figcaption>		
+			</div>
+		</div>
+	</a>
+
+	<a href="#" data-display="casinotop10list">
+		<div class="item item-w2 item-h2">
+			<img src="http://themenectar.com/demo/salient-frostwave/wp-content/uploads/2013/03/theMoose1.jpg">
+			<div class="overlay">
 				<figcaption>
 					<h1>Casino Top 10 List</h1>
 					<p>Website</p>
-				</figcaption>
+				</figcaption>	
 			</div>
-		</a>
-
-		<div class="item item-h2">
-			<img src="/images/gf.jpg">
-			<figcaption>Item 9</figcaption>
-		</div>
-		<div class="item item-h2">
-			<img src="http://themenectar.com/demo/salient-frostwave/wp-content/uploads/2014/03/onemore-preload1121-1000x1000.jpg">
-			<figcaption>Item 10</figcaption>
-		</div>
-		<div class="item item-h2">
-			<img src="http://themenectar.com/demo/salient-frostwave/wp-content/uploads/2014/03/CSD_06b11-500x500.jpg">
-			<figcaption>Item 11</figcaption>
-		</div>
-		<div class="item item-w2 item-h2">
-			<img src="http://themenectar.com/demo/salient-frostwave/wp-content/uploads/2013/03/theMoose1.jpg">
-			<figcaption>Item 12</figcaption>
 		</div> 
+	</a>
+
+
 	</section>
 
 
@@ -574,5 +618,160 @@
         </div><!-- Project Info Close -->
     </div><!-- Project Close -->
 </div><!-- portBox Close -->
+
+
+
+
+
+
+<div id="bwSports" class="portBox">
+    <div class="project">
+        
+    	<div  class="project-pics">
+
+            <div style="position:relative;">
+            	<img src="/images/behance/bwSports.jpg">
+	    		
+            </div>
+             
+            
+        </div>
+        
+        <div class="project-info">
+            <h3>Coal Mining Brief Facts</h3>
+            
+            <p>Parallax Responsive Website</p>
+            
+            <ul>
+                <li><h4>CLIENT</h4></li>
+                	<li>Coal Mining History Resource Centre</li>
+                <li><h4>ROLE</h4></li>
+                	<li>How to present Coal Mining facts in a fun, enticing infographic design style.</li>
+                <li><h4>SKILLS</h4></li>
+                	<li>HTML5, CSS3, Jquery, Fireworks, Photoshop</li>
+            </ul>
+            
+            <a href="#" class="project-button">Visit Site</a>
+        
+        </div><!-- Project Info Close -->
+    </div><!-- Project Close -->
+</div><!-- portBox Close -->
+
+
+
+
+<div id="bwSportsMob" class="portBox">
+    <div class="project">
+        
+    	<div  class="project-pics">
+
+            <div style="position:relative;">
+            	<img src="/images/behance/bwSportsMob.jpg">
+	    		
+            </div>
+             
+            
+        </div>
+        
+        <div class="project-info">
+            <h3>Coal Mining Brief Facts</h3>
+            
+            <p>Parallax Responsive Website</p>
+            
+            <ul>
+                <li><h4>CLIENT</h4></li>
+                	<li>Coal Mining History Resource Centre</li>
+                <li><h4>ROLE</h4></li>
+                	<li>How to present Coal Mining facts in a fun, enticing infographic design style.</li>
+                <li><h4>SKILLS</h4></li>
+                	<li>HTML5, CSS3, Jquery, Fireworks, Photoshop</li>
+            </ul>
+            
+            <a href="#" class="project-button">Visit Site</a>
+        
+        </div><!-- Project Info Close -->
+    </div><!-- Project Close -->
+</div><!-- portBox Close -->
+
+
+
+
+
+<div id="hippo" class="portBox">
+    <div class="project">
+        
+    	<div  class="project-pics">
+
+            <div style="position:relative;">
+            	<img src="/images/behance/hippo.jpg">
+	    		
+            </div>
+             
+            
+        </div>
+        
+        <div class="project-info">
+            <h3>Coal Mining Brief Facts</h3>
+            
+            <p>Parallax Responsive Website</p>
+            
+            <ul>
+                <li><h4>CLIENT</h4></li>
+                	<li>Coal Mining History Resource Centre</li>
+                <li><h4>ROLE</h4></li>
+                	<li>How to present Coal Mining facts in a fun, enticing infographic design style.</li>
+                <li><h4>SKILLS</h4></li>
+                	<li>HTML5, CSS3, Jquery, Fireworks, Photoshop</li>
+            </ul>
+            
+            <a href="#" class="project-button">Visit Site</a>
+        
+        </div><!-- Project Info Close -->
+    </div><!-- Project Close -->
+</div><!-- portBox Close -->
+
+
+
+
+
+
+
+<div id="gf" class="portBox">
+    <div class="project">
+        
+    	<div  class="project-pics">
+
+            <div style="position:relative;">
+            	<img src="/images/behance/gf.jpg">
+	    		
+            </div>
+             
+            
+        </div>
+        
+        <div class="project-info">
+            <h3>Coal Mining Brief Facts</h3>
+            
+            <p>Parallax Responsive Website</p>
+            
+            <ul>
+                <li><h4>CLIENT</h4></li>
+                	<li>Coal Mining History Resource Centre</li>
+                <li><h4>ROLE</h4></li>
+                	<li>How to present Coal Mining facts in a fun, enticing infographic design style.</li>
+                <li><h4>SKILLS</h4></li>
+                	<li>HTML5, CSS3, Jquery, Fireworks, Photoshop</li>
+            </ul>
+            
+            <a href="#" class="project-button">Visit Site</a>
+        
+        </div><!-- Project Info Close -->
+    </div><!-- Project Close -->
+</div><!-- portBox Close -->
+
+
+
+
+
 </body>
 </html>
