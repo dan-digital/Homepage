@@ -136,13 +136,14 @@
 		<a href="#" data-display="betwayBingo">
 			<div class="item item-w2 item-h2">
 				<img src="/images/bb.jpg">
-				<div class="overlay">
+				<div class="overlay bb">
 
+
+					<figcaption>
+						<h1>Betway Bingo</h1>
+						<p>Online Bingo Website</p>
+					</figcaption>
 				</div>
-				<figcaption>
-	<h1>Betway Bingo</h1>
-	<p>Online Bingo Website</p>
-</figcaption>
 			</div>
 		</a>
 
@@ -151,7 +152,7 @@
 	<a href="#" data-display="wintech">
 		<div class="item item-h2">
 			<img src="/images/wintech.jpg">
-			<div class="overlay">
+			<div class="overlay wintech">
 				<figcaption>
 		<h1>Wintechnologies</h1>
 		<p>IGaming Website</p>
@@ -166,7 +167,7 @@
 			<a href="#" data-display="db">
 		<div class="item item-h2">
 			<img src="/images/db.jpg">
-			<div class="overlay">
+			<div class="overlay db">
 				<figcaption>
 		<h1>Dream Bingo</h1>
 		<p>Online Bingo Website</p>
@@ -182,7 +183,7 @@
 	<div class="item item-h2">
 
 		<img src="/images/coal.jpg">
-		<div class="overlay">
+		<div class="overlay coal">
 			<figcaption>
 				<h1>Coal Mining</h1>
 				<p>Infographic Website</p>
@@ -195,7 +196,7 @@
 	<a href="#" data-display="dbMobile">
 		<div class="item item-h2">
 			<img src="/images/dbApp.jpg">
-		<div class="overlay">
+		<div class="overlay dbMob">
 			<figcaption>
 				<h1>Dream Bingo</h1>
 				<p>Mobile App</p>
@@ -385,7 +386,7 @@
     	<div  class="project-pics">
 
             <div style="position:relative;">
-              <img src="/images/behance/winTech.jpg">
+              <img src="/images/behance/wt.jpg">
               <video autoplay loop poster="polina.jpg" id="winTech">
                <source src="/video/winTech.mp4" type="video/mp4">
                </video>
