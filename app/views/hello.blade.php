@@ -136,13 +136,14 @@
 		<a href="#" data-display="betwayBingo">
 			<div class="item item-w2 item-h2">
 				<img src="/images/bb.jpg">
-				<div class="overlay">
+				<div class="overlay bb">
 
-				</div>
+				
 				<figcaption>
-	<h1>Betway Bingo</h1>
-	<p>Online Bingo Website</p>
-</figcaption>
+					<h1>Betway Bingo</h1>
+					<p>Online Bingo Website</p>
+				</figcaption>
+				</div>
 			</div>
 		</a>
 
@@ -151,7 +152,7 @@
 	<a href="#" data-display="wintech">
 		<div class="item item-h2">
 			<img src="/images/wintech.jpg">
-			<div class="overlay">
+			<div class="overlay wintech">
 				<figcaption>
 		<h1>Wintechnologies</h1>
 		<p>IGaming Website</p>
@@ -166,7 +167,7 @@
 			<a href="#" data-display="db">
 		<div class="item item-h2">
 			<img src="/images/db.jpg">
-			<div class="overlay">
+			<div class="overlay db">
 				<figcaption>
 		<h1>Dream Bingo</h1>
 		<p>Online Bingo Website</p>
@@ -182,7 +183,7 @@
 	<div class="item item-h2">
 
 		<img src="/images/coal.jpg">
-		<div class="overlay">
+		<div class="overlay coal">
 			<figcaption>
 				<h1>Coal Mining</h1>
 				<p>Infographic Website</p>
@@ -195,7 +196,7 @@
 	<a href="#" data-display="dbMobile">
 		<div class="item item-h2">
 			<img src="/images/dbApp.jpg">
-		<div class="overlay">
+		<div class="overlay dbMob">
 			<figcaption>
 				<h1>Dream Bingo</h1>
 				<p>Mobile App</p>
@@ -209,11 +210,12 @@
 		<div class="item item-w2 item-h4">
 			<img src="/images/abi.jpg">
 			<div class="overlay">
-			</div>	
+				
 			<figcaption>
 				<h1>APB</h1>
 				<p>Website</p>
 			</figcaption>
+			</div>
 		</div>
 		<a/>
 
@@ -224,11 +226,12 @@
 		<img src="/images/apb.jpg">
 		<figcaption>Item 7</figcaption>
 		<div class="overlay">
-		</div>
+		
 		<figcaption>
 			<h1>APB</h1>
 			<p>Game Website</p>
 		</figcaption>
+		</div>
 	</div>
 </a>
 		
@@ -236,11 +239,12 @@
 		<div class="item item-h2">
 			<img src="/images/cttl.jpg">
 			<div class="overlay">
-			</div>
+			
 			<figcaption>
 				<h1>Betway Sports</h1>
 				<p>Sports Betting Website</p>
 			</figcaption>
+			</div>
 		</div>
 	</a>
 
