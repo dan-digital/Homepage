@@ -223,9 +223,9 @@
 
 	<a href="#" data-display="apb">
 	<div class="item item-w2 item-h4">
-		<img src="/images/apb.jpg">
+		<img src="/images/apb2.jpg">
 		<figcaption>Item 7</figcaption>
-		<div class="overlay">
+		<div class="overlay apb">
 		
 		<figcaption>
 			<h1>APB</h1>
