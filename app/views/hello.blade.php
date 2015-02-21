@@ -389,7 +389,7 @@
     	<div  class="project-pics">
 
             <div style="position:relative;">
-              <img src="/images/behance/winTech.jpg">
+              <img src="/images/behance/wt.jpg">
               <video autoplay loop poster="polina.jpg" id="winTech">
                <source src="/video/winTech.mp4" type="video/mp4">
                </video>
