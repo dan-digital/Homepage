@@ -65,7 +65,7 @@
 
 	</header>
 	<section id="Home">
-        <video autoplay loop poster="polina.jpg" id="bgVid">
+        <video autoplay loop poster="/images/homeScreen.jpg" id="bgVid">
 			<source src="/video/db1080p2.mp4" type="video/mp4"> 
 		</video>
 		<div style="position:absolute; width:100%; height:100%; background:rgba(145, 229, 239, 0.08);"></div>
