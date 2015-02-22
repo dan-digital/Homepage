@@ -272,21 +272,11 @@
 		</div>
 	</a>
 
-	<a href="#" data-display="bwSportsMob">
-		<div class="item item-h2">
-			<img src="http://themenectar.com/demo/salient-frostwave/wp-content/uploads/2014/03/CSD_06b11-500x500.jpg">
-			<div class="overlay">
-				<figcaption>
-					<h1>Betway Sports Mobile</h1>
-					<p>Sports Betting App</p>
-				</figcaption>		
-			</div>
-		</div>
-	</a>
+	
 
 	<a href="#" data-display="casinotop10list">
-		<div class="item item-w2 item-h2">
-			<img src="http://themenectar.com/demo/salient-frostwave/wp-content/uploads/2013/03/theMoose1.jpg">
+		<div class="item item-h2">
+<img src="/images/cttl.jpg">			
 			<div class="overlay">
 				<figcaption>
 					<h1>Casino Top 10 List</h1>
@@ -294,8 +284,20 @@
 				</figcaption>	
 			</div>
 		</div> 
-	</a>
+	</a
 
+
+	<a href="#" data-display="bwSportsMob">
+		<div class="item item-w2 item-h2">
+			<img src="http://themenectar.com/demo/salient-frostwave/wp-content/uploads/2013/03/theMoose1.jpg">
+			<div class="overlay">
+				<figcaption class=large>
+					<h1>Sports Blog</h1>
+					<p>Blog covering sports news</p>
+				</figcaption>		
+			</div>
+		</div>
+	</a>
 
 	</section>
 

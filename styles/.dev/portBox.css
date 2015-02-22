@@ -59,7 +59,7 @@ portBox CSS
 	-webkit-box-shadow: 0 0 10px rgba(0,0,0,.4);
 	-box-shadow: 0 0 10px rgba(0,0,0,.4);
 	min-width:200px;
-	font-family: 'Source Sans Pro', sans-serif; 
+	font-family: 'open sans', sans-serif; 
 	box-sizing: border-box;
 }
 
@@ -71,7 +71,7 @@ portBox CSS
 		right: -7px;
 		color: #fff !important;
 		text-shadow:none;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'open sans', sans-serif;
 		font-weight:bold;
 		cursor: pointer;
 		border-radius:50%;
