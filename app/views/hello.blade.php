@@ -237,7 +237,7 @@
 		
 	<a href="#" data-display="bwSports">
 		<div class="item item-h2">
-			<img src="/images/cttl.jpg">
+			<img src="/images/bwSports.jpg">
 			<div class="overlay">
 			
 			<figcaption>
@@ -250,7 +250,7 @@
 
 	<a href="#" data-display="hippo">
 		<div class="item item-h2">
-			<img src="/images/gf.jpg">
+			<img src="/images/hippodrome.jpg">
 			<div class="overlay">
 				<figcaption>
 					<h1>Hippodrome Online</h1>
@@ -262,7 +262,7 @@
 
 	<a href="#" data-display="gf">
 		<div class="item item-h2">
-			<img src="http://themenectar.com/demo/salient-frostwave/wp-content/uploads/2014/03/onemore-preload1121-1000x1000.jpg">
+			<img src="/images/gf.jpg">
 			<div class="overlay">
 				<figcaption>
 					<h1>Girl Fit</h1>
