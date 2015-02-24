@@ -289,7 +289,7 @@
 
 	<a href="#" data-display="abi">
 		<div class="item item-w2 item-h2">
-			<img src="http://themenectar.com/demo/salient-frostwave/wp-content/uploads/2013/03/theMoose1.jpg">
+			<img src="/images/abi.jpg">			
 			<div class="overlay">
 				<figcaption class=large>
 					<h1>Abi 3D</h1>
