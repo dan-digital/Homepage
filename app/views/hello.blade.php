@@ -442,19 +442,23 @@
         </div>
         
         <div class="project-info">
-            <h3>My Awsome Project</h3>
+            <h3>APB - All Points Bulletin</h3>
             
-            <p>Short description of the project or the work that went into finishing it.</p>
+            <p>Website Concept</p>
             
             <ul>
                 <li><h4>CLIENT</h4></li>
-                	<li>Dude McMan</li>
+                	<li>Gamers First</li>
                 <li><h4>ROLE</h4></li>
-                	<li>Stuff, Stuff, More Stuff</li>
+                	<li>Concept Design</li>
+                	<li>Web Prototype</li>
                 <li><h4>SKILLS</h4></li>
                 	<li>this, that, the other</li>
             </ul>
             
+
+
+
             <a href="#" class="project-button">Visit Site</a>
         
         </div><!-- Project Info Close -->
@@ -485,19 +489,30 @@
         </div>
         
         <div class="project-info">
-            <h3>My Awsome Project</h3>
+            <h3>Casino Top 10 List</h3>
             
-            <p>Short description of the project or the work that went into finishing it.</p>
+            <p>Most casino review sites leave a lot to be desired, and with the market being immensely oversaturated. My objective was to find an edge in the market by creating a more aesthetically pleasing, intuitive user interface.
+</p>
             
             <ul>
                 <li><h4>CLIENT</h4></li>
-                	<li>Dude McMan</li>
+                	<li>Casino top 10 List</li>
                 <li><h4>ROLE</h4></li>
-                	<li>Stuff, Stuff, More Stuff</li>
+                	<li>Concept Design</li>
+                	<li>UI / UX Design</li>
+                	<li>Creating Custom Wordpress Theme</li>
+            		<li>Front end Development</li>
+            		<li>Back End Development</li>
                 <li><h4>SKILLS</h4></li>
-                	<li>this, that, the other</li>
+                	<li>Fireworks (UI & Design),  HTML 5, CSS3, Wordpress.</li>
             </ul>
             
+
+
+
+
+
+
             <a href="#" class="project-button">Visit Site</a>
         
         </div><!-- Project Info Close -->
@@ -567,19 +582,23 @@
         </div>
         
         <div class="project-info">
-            <h3>Coal Mining Brief Facts</h3>
+            <h3>Dream Bingo</h3>
             
-            <p>Parallax Responsive Website</p>
-            
+            <p>Website Rebrand and design</p>
+            p
             <ul>
                 <li><h4>CLIENT</h4></li>
-                	<li>Coal Mining History Resource Centre</li>
+                	<li>london bridge media</li>
                 <li><h4>ROLE</h4></li>
-                	<li>How to present Coal Mining facts in a fun, enticing infographic design style.</li>
+                	<li>Creating concept and pitching the brand vision for dream bingo
+</li><li>Designing and animating background video</li>
+<li>Designing the homepage user interface</li>
+<li>Orchestrating the development</li>
                 <li><h4>SKILLS</h4></li>
-                	<li>HTML5, CSS3, Jquery, Fireworks, Photoshop</li>
+                	<li>Photoshop (Matte Painting), Fireworks (UI), After effects (animation), 3D Max (terrain base)
+</li>
             </ul>
-            
+
             <a href="#" class="project-button">Visit Site</a>
         
         </div><!-- Project Info Close -->
@@ -606,19 +625,28 @@
         </div>
         
         <div class="project-info">
-            <h3>Coal Mining Brief Facts</h3>
+            <h3>Dream Bingo
+</h3>
             
-            <p>Parallax Responsive Website</p>
+            <p>Mobile App Design</p>
             
             <ul>
                 <li><h4>CLIENT</h4></li>
-                	<li>Coal Mining History Resource Centre</li>
+                	<li>LBM</li>
                 <li><h4>ROLE</h4></li>
-                	<li>How to present Coal Mining facts in a fun, enticing infographic design style.</li>
-                <li><h4>SKILLS</h4></li>
-                	<li>HTML5, CSS3, Jquery, Fireworks, Photoshop</li>
+				<li>Creating concept designs and animations
+				</li>                
+				<li>Pitching Concept Design</li>
+				<li>Designing Mobile Branding</li>
+				<li>Orchestrating the development</li>
+				<li><h4>SKILLS</h4></li>
+        		<li> Fireworks (UI & Design), After effects (concept animation)</li>
             </ul>
             
+
+
+
+
             <a href="#" class="project-button">Visit Site</a>
         
         </div><!-- Project Info Close -->
@@ -680,19 +708,26 @@
         </div>
         
         <div class="project-info">
-            <h3>Coal Mining Brief Facts</h3>
+            <h3>Betway Sports Mobile</h3>
             
-            <p>Parallax Responsive Website</p>
+           <p>Mobile App Design</p>
             
             <ul>
                 <li><h4>CLIENT</h4></li>
-                	<li>Coal Mining History Resource Centre</li>
+                	<li>Betway</li>
                 <li><h4>ROLE</h4></li>
-                	<li>How to present Coal Mining facts in a fun, enticing infographic design style.</li>
+                	<li>Creating concept designs, UI / UX and animations</li>
                 <li><h4>SKILLS</h4></li>
-                	<li>HTML5, CSS3, Jquery, Fireworks, Photoshop</li>
+                	<li>Fireworks (UI & Design), After effects (concept animation)</li>
             </ul>
             
+
+ 
+
+
+
+
+
             <a href="#" class="project-button">Visit Site</a>
         
         </div><!-- Project Info Close -->
@@ -717,19 +752,27 @@
         </div>
         
         <div class="project-info">
-            <h3>Coal Mining Brief Facts</h3>
+            <h3>Hippodrome Online</h3>
             
-            <p>Parallax Responsive Website</p>
-            
+            <p>Online Gambling site for the popular Hippodrome Land based Casino.</p>
+            <p>Originally intended to be a "generic" white label landing page, and with a underwhelming design already signed off by the Director. I took it upon myself to work through my evening at home and create a new concept, with the incentive of creating a user experience much more intuitive than our lead brands.
+The next morning I pitched it to the Director, who thankfully was onboard. As a result of showing initiative… I was given the opportunity of being Lead Designer for the project.
+<p>One year later, Hippodrome Casino is now one of our most successful Casino Brands.</p>
+</p>
             <ul>
                 <li><h4>CLIENT</h4></li>
-                	<li>Coal Mining History Resource Centre</li>
+                	<li>Hippodrome Casino</li>
                 <li><h4>ROLE</h4></li>
-                	<li>How to present Coal Mining facts in a fun, enticing infographic design style.</li>
+                	<li>Concept Design</li>
+                	<li>UI / UX Design</li>
+                		<li>Front end Development</li>
                 <li><h4>SKILLS</h4></li>
-                	<li>HTML5, CSS3, Jquery, Fireworks, Photoshop</li>
+                	<li>Fireworks (UI & Design),  HTML 5, CSS3, and Jquery</li>
             </ul>
-            
+          
+
+
+
             <a href="#" class="project-button">Visit Site</a>
         
         </div><!-- Project Info Close -->
@@ -756,19 +799,21 @@
         </div>
         
         <div class="project-info">
-            <h3>Coal Mining Brief Facts</h3>
+            <h3>Girl Fit</h3>
             
-            <p>Parallax Responsive Website</p>
+            <p>Fitness Mobile App concept</p>
             
             <ul>
                 <li><h4>CLIENT</h4></li>
-                	<li>Coal Mining History Resource Centre</li>
+                	<li>Womans Health Fitnesse</li>
                 <li><h4>ROLE</h4></li>
-                	<li>How to present Coal Mining facts in a fun, enticing infographic design style.</li>
+                <li>Concept Design</li>                
+
                 <li><h4>SKILLS</h4></li>
-                	<li>HTML5, CSS3, Jquery, Fireworks, Photoshop</li>
+                	<li>Fireworks (UI & Design), After Effects (Concept Design)</li>
             </ul>
             
+
             <a href="#" class="project-button">Visit Site</a>
         
         </div><!-- Project Info Close -->
@@ -793,18 +838,19 @@
         </div>
         
         <div class="project-info">
-            <h3>Coal Mining Brief Facts</h3>
+            <h3>ABI 3D and other 3D projects</h3>
             
-            <p>Parallax Responsive Website</p>
+            <p>We also have professional experience working within the field of 3D Art and Design</p>
             
             <ul>
-                <li><h4>CLIENT</h4></li>
-                	<li>Coal Mining History Resource Centre</li>
+                <li><h4>CLIENTS</h4></li>
+                	<li>16 bit studios, 3D Reigns</li>
                 <li><h4>ROLE</h4></li>
-                	<li>How to present Coal Mining facts in a fun, enticing infographic design style.</li>
+                	<li>Creating 3D assets</li>
                 <li><h4>SKILLS</h4></li>
-                	<li>HTML5, CSS3, Jquery, Fireworks, Photoshop</li>
+                	<li>Modeling, Rendering, Rigging, Texturing</li>
             </ul>
+
             
             <a href="#" class="project-button">Visit Site</a>
         
