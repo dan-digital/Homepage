@@ -4,6 +4,10 @@
     </IfModule>
 
     RewriteEngine On
+	
+	
+    RewriteCond %{HTTP_HOST} ^www.dandigital.com [NC]
+    RewriteRule ^(.*)$ http://dandigital.com/$1 [L,R=301,NC]
 
     # Redirect Trailing Slashes...
     RewriteRule ^(.*)/$ /$1 [L,R=301]
