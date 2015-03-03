@@ -314,7 +314,7 @@
 			</div>
 			<div class="col1">	
 				<object class="footerIcon" type="image/svg+xml" data="/images/svg/packet.svg">Your browser does not support SVG</object>
-				<h2>dan@dandigital.com</h2>
+				<h2><a href="mailto:dan@dandigital.com">dan@dandigital.com</a></h2>
 				
 			</div>
 			<div class="col1">
